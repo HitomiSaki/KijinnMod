@@ -1,0 +1,8 @@
+{
+  "KIJINN_CARD_KIJINN_DEFEND.title": "防御",
+  "KIJINN_CARD_KIJINN_DEFEND.description": "获得{Block:diff()}点[gold]格挡[/gold]。",
+  "KIJINN_CARD_KIJINN_STRIKE.title": "打击",
+  "KIJINN_CARD_KIJINN_STRIKE.description": "造成{Damage:diff()}点伤害。",
+  "KIJINN_CARD_FREEZE_DESCENT.title": "冰寒血统",
+  "KIJINN_CARD_FREEZE_DESCENT.description": "获得{Block:diff()}点格挡。\n[gold]冰寒[/gold]。"
+}
