@@ -95,7 +95,8 @@ public class Kijinn : ModCharacterTemplate<KijinnCardPool, KijinnRelicPool, Kiji
     // 初始卡组，或者在卡牌类上用RegisterCharacterStarterCard就不用写这个
     protected override IEnumerable<StartingDeckEntry> StartingDeckEntries => [
         new(typeof(KijinnDefend), 4),
-        new (typeof(KijinnStrike),4)
+        new (typeof(KijinnStrike),4),
+        new (typeof(FreezeDescent))
     ];
 
     // 初始遗物，或者在遗物类上用RegisterCharacterStarterRelic就不用写这个

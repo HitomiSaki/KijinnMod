@@ -2,8 +2,8 @@
   "KIJINN_CHARACTER_KIJINN.aromaPrinciple": "[sine][blue]……等待……[/blue][/sine]",
   "KIJINN_CHARACTER_KIJINN.banter.alive.endTurnPing": "还有时间。",
   "KIJINN_CHARACTER_KIJINN.banter.dead.endTurnPing": "……",
-  "KIJINN_CHARACTER_KIJINN.cardsModifierDescription": "木瞳的卡牌现在会出现在奖励和商店中。",
-  "KIJINN_CHARACTER_KIJINN.cardsModifierTitle": "木瞳牌",
+  "KIJINN_CHARACTER_KIJINN.cardsModifierDescription": "瞳的卡牌现在会出现在奖励和商店中。",
+  "KIJINN_CHARACTER_KIJINN.cardsModifierTitle": "鬼人牌",
   "KIJINN_CHARACTER_KIJINN.description": "原初血统的拥有者。\n能够操控寒冰和强化自身的肉体。",
   "KIJINN_CHARACTER_KIJINN.eventDeathPrevention": "我可没那么容易死。",
   "KIJINN_CHARACTER_KIJINN.goldMonologue": "[sine]钱总是有用的……大概……[/sine]",
@@ -11,7 +11,11 @@
   "KIJINN_CHARACTER_KIJINN.pronounObject": "他",
   "KIJINN_CHARACTER_KIJINN.pronounPossessive": "他的",
   "KIJINN_CHARACTER_KIJINN.pronounSubject": "他",
-  "KIJINN_CHARACTER_KIJINN.title": "鬼人-木瞳",
-  "KIJINN_CHARACTER_KIJINN.titleObject": "木瞳",
-  "KIJINN_CHARACTER_KIJINN.unlockText": "用[pink]{Prerequisite}[/pink]进行一局游戏来解锁这个角色。"
+  "KIJINN_CHARACTER_KIJINN.title": "鬼人-瞳",
+  "KIJINN_CHARACTER_KIJINN.titleObject": "瞳",
+  "KIJINN_CHARACTER_KIJINN.unlockText": "用[pink]{Prerequisite}[/pink]进行一局游戏来解锁这个角色。",
+  "KIJINN_CHARACTER_KIJINN.defeatMessage": "似了。",
+  "KIJINN_CHARACTER_KIJINN.flavor": "？",
+  "KIJINN_CHARACTER_KIJINN.selectMessage": "那必须是我啊",
+  "KIJINN_CHARACTER_KIJINN.victoryMessage": "赢！"
 }

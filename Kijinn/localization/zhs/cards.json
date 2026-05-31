@@ -1,4 +1,6 @@
 {
+  "KIJINN_CARD_KIJINN_CARD_MODEL.title": "卡牌基类非要我本地化",
+  "KIJINN_CARD_KIJINN_CARD_MODEL.description": "莫名其妙",
   "KIJINN_CARD_KIJINN_DEFEND.title": "防御",
   "KIJINN_CARD_KIJINN_DEFEND.description": "获得{Block:diff()}点[gold]格挡[/gold]。",
   "KIJINN_CARD_KIJINN_STRIKE.title": "打击",

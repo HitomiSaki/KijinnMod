@@ -6,7 +6,7 @@ using STS2RitsuLib.Scaffolding.Content;
 namespace Kijinn.KijinnCode.Cards;
 
 // 设置Inherit为true允许自动注册该类的所有子类
-[RegisterCard(typeof(KijinnCardPool), Inherit = true)]
+[RegisterCard(typeof(KijinnCardPool), Inherit = true)] 
 public abstract class KijinnCardModel : ModCardTemplate
 {
     public override CardAssetProfile AssetProfile => new(

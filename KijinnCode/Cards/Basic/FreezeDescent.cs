@@ -1,5 +1,5 @@
 ﻿using Kijinn.KijinnCode.Character;
-using Kjinn.KijinnCode.Powers;
+using Kijinn.KijinnCode.Powers;
 using MegaCrit.Sts2.Core.Commands;
 using MegaCrit.Sts2.Core.Entities.Cards;
 using MegaCrit.Sts2.Core.GameActions.Multiplayer;
@@ -29,7 +29,7 @@ public class FreezeDescent() : KijinnCardModel(1, CardType.Skill, CardRarity.Bas
     protected override async Task OnPlay(PlayerChoiceContext choiceContext, CardPlay cardPlay)
     {
         await CreatureCmd.GainBlock(base.Owner.Creature, base.DynamicVars.Block, cardPlay);
-        await PowerCmd.Apply<StrengthPower>(Owner.Creature, 1, Owner.Creature, this);
+        await PowerCmd.Apply<FreezeDescentPower>(Owner.Creature, 1, Owner.Creature, this);
     }
 
     // 升级后的效果逻辑
